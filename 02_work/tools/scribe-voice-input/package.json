@@ -1,0 +1,8 @@
+{
+  "name": "scribe-voice-input",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  }
+}
